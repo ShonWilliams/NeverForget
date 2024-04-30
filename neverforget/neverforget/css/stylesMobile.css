@@ -1,0 +1,26 @@
+header {
+	position: -webkit-sticky;
+	position: sticky;
+	background-color: black;
+	height: 250px;
+}
+
+header img {
+	margin: 0 auto;
+	display: block;
+}
+
+nav {
+	padding: 1%;
+	margin-bottom: 100%;
+}
+
+nav ul {
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+}
+
+#Desktop{
+	display: none;
+ }
